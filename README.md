@@ -1,6 +1,4 @@
-# My profile
-
-## Hi there 👋
+# Hi there 👋
 
 I am a frontend developer and a lover of technology
 
@@ -21,6 +19,7 @@ class Skills extends SoftwareDeveloper {
   }
 }
 ```
+
 | Most Used Languages | GitHub Stats |
 | ------------------- | ------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RR69Sport&show_icons=true&hide_title=true&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/?username=RR69Sport&show_icons=true&hide_title=true&hide_border=true) |
