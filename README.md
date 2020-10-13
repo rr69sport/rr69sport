@@ -20,6 +20,10 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Css-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+
 | Most Used Languages | GitHub Stats |
 | ------------------- | ------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RR69Sport&show_icons=true&hide_title=true&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/?username=RR69Sport&show_icons=true&hide_title=true&hide_border=true) |
