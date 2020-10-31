@@ -3,7 +3,7 @@
 I am a frontend developer and a lover of technology
 
 ```js
-import SoftwareDeveloper from 'RR69Sport';
+import SoftwareDeveloper from 'rr69sport';
 
 class Bio extends SoftwareDeveloper {
     name     = 'Richard Ramírez';
