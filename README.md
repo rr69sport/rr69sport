@@ -6,17 +6,35 @@ I am a frontend developer and a lover of technology
 import SoftwareDeveloper from 'RR69Sport';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Richard Ramírez';
-  title    = 'Frontend Developer';
-  location = 'Uruguay';
+    name     = 'Richard Ramírez';
+    stack    = 'Frontend Developer';
+    location = 'Uruguay';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'CSS', 'HTML'];
-  otherTecnologies = ['Git', 'GitHub', 'Pug', 'Sass/SCSS', 'Gulp']
-  frameworks = {
-    'Coming soon': 'React'
-  }
+    languages = ['HTML', 'CSS', 'JavaScript'];
+
+    preprocessos = {
+        html: 'Pug',
+        css: 'Sass/SCSS',
+        javascript: async () => {
+            return await learn('typescript')
+        }
+    };
+
+    othersTecnologies = {
+        versionControl = 'Git',
+        softwareHosting = 'GitHub',
+        tasksRunners = {
+            Gulp = true,
+            Webpack = async () => await learn()
+        },
+        Linterns = 'ESLint'
+    };
+
+    frameworks = async () => await learn('React', 'Svelte');
+
+    node = async () => await learn()
 }
 ```
 
