@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=rr69sport&color=green)
 
-I am a frontend developer and a lover of technology ![Profile views](https://komarev.com/ghpvc/?username=rr69sport&color=green)
+I am a frontend developer and a lover of technology
 
 ```js
 import SoftwareDeveloper from 'RR69Sport';
