@@ -1,4 +1,4 @@
-# Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=rr69sport&color=green)
+# Hi there 👋
 
 I am a frontend developer and a lover of technology
 
