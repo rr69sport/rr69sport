@@ -17,17 +17,21 @@ class Skills extends SoftwareDeveloper {
     preprocessos = {
         html: 'Pug',
         css: 'Sass/SCSS',
-        javascript: async () => await learn('typescript')
+        javascript: {
+            babel: true,
+            typescript: async () => await learn()
+        }
     };
 
     othersTecnologies = {
-        versionControl = 'Git',
-        softwareHosting = 'GitHub',
-        tasksRunners = {
-            Gulp = true,
-            Webpack = async () => await learn()
-        },
-        Linterns = 'ESLint'
+        versionControl: 'Git',
+        softwareHosting: 'GitHub',
+        linterns: 'ESLint',
+        formaters: 'Prettier',
+        tasksRunners: {
+            gulp: true,
+            webpack = async () => await learn()
+        }
     };
 
     frameworks = async () => await learn('React', 'Svelte');
@@ -36,6 +40,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-| Most Used Languages | GitHub Stats |
-| ------------------- | ------------ |
+| Most Used Languages                                                                                                                                                                      | GitHub Stats                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
