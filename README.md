@@ -2,8 +2,6 @@
 
 I am a frontend developer and a lover of technology
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rr69sport&theme=darkhub)
-
 ```js
 import SoftwareDeveloper from 'rr69sport';
 
@@ -41,6 +39,8 @@ class Skills extends SoftwareDeveloper {
     node = async () => await learn()
 }
 ```
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rr69sport&theme=darkhub)
 
 | Most Used Languages                                                                                                                                                                      | GitHub Stats                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
