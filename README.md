@@ -2,7 +2,9 @@
 
 I am a frontend developer and a lover of technology
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rr69sport&theme=darkhub&margin-w=15)
+## GitHub Profile Trophy
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rr69sport&theme=darkhub&margin-w=35)
 
 | Most Used Languages                                                                                                                                                                      | GitHub Stats                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
