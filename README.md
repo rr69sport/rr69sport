@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a frontend developer and a lover of technology
+I am a frontend developer and a lover of technology ![](https://komarev.com/ghpvc/?username=rr69sport)
 
 ## My Skills
 
