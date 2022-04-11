@@ -1,4 +1,4 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=rr69sport)
+# Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=rr69sport)
 
 I am a frontend developer and a lover of technology
 
@@ -16,12 +16,11 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
     languages = ['HTML', 'CSS', 'JavaScript'];
 
-    preprocessos = {
+    preprocessors = {
         html: 'Pug',
         css: 'Sass/SCSS',
         javascript: {
-            babel: true,
-            typescript: async () => await learn()
+            typescript: async () => await learn();
         }
     };
 
@@ -30,15 +29,11 @@ class Skills extends SoftwareDeveloper {
         softwareHosting: 'GitHub',
         linterns: 'ESLint',
         formaters: 'Prettier',
-        tasksRunners: {
-            gulp: true,
-            webpack = async () => await learn()
-        }
+        tasksRunners: 'Gulp',
+        pakers: 'Vitejs'
     };
 
     frameworks = async () => await learn('React', 'Svelte');
-
-    node = async () => await learn()
 }
 ```
 
@@ -48,8 +43,8 @@ class Skills extends SoftwareDeveloper {
 
 ## GitHub Stats
 
-| Most Used Languages | GitHub Stats |
-| ------------------- | ------------ |
+| Most Used Languages                                                                                                                                                                      | GitHub Stats                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
 
 ## GitHub Profile Trophy
