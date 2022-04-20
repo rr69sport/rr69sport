@@ -7,12 +7,6 @@
 Soy desarrollador web frontend, aprendí por medio de cursos online en distintas plataformas y aunque no tengo experiencia laboral aún, llevo más de 3 años estudiando y haciendo prácticas de distinta índole dentro de la rama frontend del desarrollo web.
 
 ```js
-const userProfile = {
-    name     : 'Richard Ramírez',
-    stack    : 'Frontend Developer',
-    location : 'Uruguay'
-};
-
 const skills = {
     languages   : ['HTML', 'CSS', 'JavaScript'],
     
