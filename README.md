@@ -1,6 +1,4 @@
-# Hola 👋 Mi nombre es Richard Ramírez 
-
-[![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)](https://www.linkedin.com/in/richard-ramírez-514963181/)
+# Mi nombre es Richard Ramírez [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)](https://www.linkedin.com/in/richard-ramírez-514963181/)
 
 ## Sobre mi
 
