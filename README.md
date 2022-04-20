@@ -1,8 +1,11 @@
-# Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=rr69sport&style=flat-square) [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)](https://www.linkedin.com/in/richard-ramírez-514963181/)
+# Hola 👋 Mi nombre es Richard Ramírez 
 
-I am a frontend developer and a lover of technology
+[![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)](https://www.linkedin.com/in/richard-ramírez-514963181/)
+![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)
 
-## My Skills
+## Sobre mi
+
+Soy desarrollador web frontend, aprendí por medio de cursos online en distintas plataformas y aunque no tengo experiencia laboral aún, llevo más de 3 años estudiando y haciendo prácticas de distinta índole dentro de la rama frontend del desarrollo web.
 
 ```js
 const userProfile = {
