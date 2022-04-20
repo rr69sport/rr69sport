@@ -5,36 +5,21 @@ I am a frontend developer and a lover of technology
 ## My Skills
 
 ```js
-import SoftwareDeveloper from 'rr69sport';
+const userProfile = {
+    name     : 'Richard Ramírez',
+    stack    : 'Frontend Developer',
+    location : 'Uruguay'
+};
 
-class Bio extends SoftwareDeveloper {
-    name     = 'Richard Ramírez';
-    stack    = 'Frontend Developer';
-    location = 'Uruguay';
-}
-
-class Skills extends SoftwareDeveloper {
-    languages = ['HTML', 'CSS', 'JavaScript'];
-
-    preprocessors = {
-        html: 'Pug',
-        css: 'Sass/SCSS',
-        javascript: {
-            typescript: async () => await learn();
-        }
-    };
-
-    othersTecnologies = {
-        versionControl: 'Git',
-        softwareHosting: 'GitHub',
-        linterns: 'ESLint',
-        formaters: 'Prettier',
-        tasksRunners: 'Gulp',
-        pakers: 'Vitejs'
-    };
-
-    frameworks = async () => await learn('React', 'Svelte');
-}
+const skills = {
+    languages   : ['HTML', 'CSS', 'JavaScript'],
+    tecnologies : {
+        preprocessors : ['Pug', 'Sass/SCSS'],
+        formatters    : ['ESLint', 'Prettier'],
+        others        : ['Git', 'Gulp', 'Vite']
+    },
+    learning : ['TypeScript', 'React', 'Svelte']
+};
 ```
 
 ## My organizations with more repos
