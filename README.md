@@ -13,13 +13,15 @@ const userProfile = {
 
 const skills = {
     languages   : ['HTML', 'CSS', 'JavaScript'],
+    
     tecnologies : {
         preprocessors : ['Pug', 'Sass/SCSS'],
         formatters    : ['ESLint', 'Prettier'],
         others        : ['Git', 'Gulp', 'Vite']
-    },
-    learning : ['TypeScript', 'React', 'Svelte']
+    }
 };
+
+const learning = ['TypeScript', 'React', 'Svelte']
 ```
 
 ## My organizations with more repos
