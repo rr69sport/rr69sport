@@ -1,4 +1,6 @@
-# Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=rr69sport)
+# Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=rr69sport)
+[![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ramírez-514963181/)](https://www.linkedin.com/in/richard-ramírez-514963181/)
 
 I am a frontend developer and a lover of technology
 
