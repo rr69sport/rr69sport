@@ -1,4 +1,4 @@
-# Mi nombre es Richard Ramírez [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
+# Mi nombre es Richard Ramírez [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/) [rrdev.me](https://www.rrdev.me)
 
 Soy desarrollador web frontend, aprendí por medio de cursos online en distintas plataformas y aunque no tengo experiencia laboral aún, llevo más de 3 años estudiando y haciendo prácticas de distinta índole dentro de la rama frontend del desarrollo web.
 
