@@ -23,12 +23,12 @@ Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. A
   - [Repo](https://github.com/rr69sport/heads-or-tails) | [Live demo](https://rr69sport.github.io/heads-or-tails/)
 
 - **Link Saver** 
-  - Aplicación para guardar links
+  - Aplicación para guardar links en localstorage.
   - Construida en: HTML, CSS, JavaScript y LocalStorage
   - [Repo](https://github.com/rr69sport/link-saver) | [Live demo](https://rr69sport.github.io/link-saver/)
 
 - **Movie Finder**
-  - Buscador de películas con un sencillo login y contraseña en localstorage para poder guardar las películas favoritas
+  - Buscador de películas con un sencillo login y contraseña en localstorage para poder guardar las películas favoritas.
   - Construida en: HTML, CSS, JavaScript, LocalStorage 
   - API: [https://www.omdbapi.com/](https://www.omdbapi.com/)
   - [Repo](https://github.com/rr69sport/movie-finder) | [Live demo](https://rr69sport.github.io/movie-finder/)
