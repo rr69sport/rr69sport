@@ -8,7 +8,7 @@ Puedes contactarme por medio de:
 
 ## Algunos de mis proyectos prácticos
 
-**[Perfil de Frontendmentor](https://www.frontendmentor.io/profile/rr69sport)**
+**[Frontendmentor]** [Mi perfil](https://www.frontendmentor.io/profile/rr69sport)
 
 - Social media dashboard with theme switcher | [Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | [Live demo](https://frontendmentor-challenge-repos.github.io/social-media-dashboard-with-theme-switcher/)
 - FAQ accordion card | [Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | [Live demo](https://frontendmentor-challenge-repos.github.io/faq-accordion/)
