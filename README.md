@@ -9,12 +9,26 @@ Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. A
 
 ## Algunos de mis proyectos prácticos
 
-**[Frontendmentor]** [Mi perfil](https://www.frontendmentor.io/profile/rr69sport)
+### Frontendmentor 
+[Mi perfil](https://www.frontendmentor.io/profile/rr69sport)
 
 - Social media dashboard with theme switcher | [Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | [Live demo](https://frontendmentor-challenge-repos.github.io/social-media-dashboard-with-theme-switcher/)
 - FAQ accordion card | [Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | [Live demo](https://frontendmentor-challenge-repos.github.io/faq-accordion/)
 
-**Projectos personales**
-- Heads or Tails | [Repo](https://github.com/rr69sport/heads-or-tails) | [Live demo](https://rr69sport.github.io/heads-or-tails/)
-- Link Saver | [Repo](https://github.com/rr69sport/link-saver) | [Live demo](https://rr69sport.github.io/link-saver/)
-- Movie Finder | [Repo](https://github.com/rr69sport/movie-finder) | [Live demo](https://rr69sport.github.io/movie-finder/)
+### Projectos personales
+
+- **Heads or Tails**
+  - Aplicación para añadir dos opciones y elige una al azar.
+  - Construida en: HTML, CSS, JavaScript
+  - [Repo](https://github.com/rr69sport/heads-or-tails) | [Live demo](https://rr69sport.github.io/heads-or-tails/)
+
+- **Link Saver** 
+  - Aplicación para guardar links
+  - Construida en: HTML, CSS, JavaScript y LocalStorage
+  - [Repo](https://github.com/rr69sport/link-saver) | [Live demo](https://rr69sport.github.io/link-saver/)
+
+- **Movie Finder**
+  - Buscador de películas con un sencillo login y contraseña en localstorage para poder guardar las películas favoritas
+  - Construida en: HTML, CSS, JavaScript, LocalStorage 
+  - API: [https://www.omdbapi.com/](https://www.omdbapi.com/)
+  - [Repo](https://github.com/rr69sport/movie-finder) | [Live demo](https://rr69sport.github.io/movie-finder/)
