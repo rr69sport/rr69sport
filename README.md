@@ -2,8 +2,8 @@
 
 Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. Abierto a aprender cosas nuevas si es necesario.
 
-Puedes contactarme por medio de:
-- [LinkedIn](https://www.linkedin.com/in/rrdevme/)
+**Puedes contactarme por medio de:**
+- **[LinkedIn](https://www.linkedin.com/in/rrdevme/)**
 
 
 ## Algunos de mis proyectos prácticos
