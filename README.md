@@ -1,4 +1,4 @@
-# Soy Richard Ramírez [https://www.rrdev.me](https://.rrdev.me) [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
+# Soy Richard Ramírez [https://rrdev.me](https://www.rrdev.me) [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
 
 Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. Abierto a aprender cosas nuevas si es necesario.
 
