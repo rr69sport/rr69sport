@@ -1,31 +1,19 @@
-# Mi nombre es Richard Ramírez [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/) [rrdev.me](https://www.rrdev.me)
+# Soy Richard Ramírez [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/) [rrdev.me](https://www.rrdev.me)
 
-Soy desarrollador web frontend, aprendí por medio de cursos online en distintas plataformas y aunque no tengo experiencia laboral aún, llevo más de 3 años estudiando y haciendo prácticas de distinta índole dentro de la rama frontend del desarrollo web.
+Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. Abierto a aprender cosas nuevas si es necesario.
 
-```js
-const skills = {
-    languages   : ['HTML', 'CSS', 'JavaScript'],
-    
-    tecnologies : {
-        preprocessors : ['Pug', 'Sass/SCSS'],
-        formatters    : ['ESLint', 'Prettier'],
-        others        : ['Git', 'Gulp', 'Vite']
-    }
-};
+Puedes contactarme por medio de:
+- [LinkedIn](https://www.linkedin.com/in/rrdevme/)
 
-const learning = ['TypeScript', 'React', 'Svelte']
-```
 
-## Challenge de Frontendmentor
+## Algunos de mis proyectos prácticos
 
-* [Frontenmentor Challenges](https://github.com/frontendmentor-challenge-repos)
+**![Perfil de Frontendmentor](https://www.frontendmentor.io/profile/rr69sport)**
 
-## Estadísticas de GitHub
+- Social media dashboard with theme switcher | ![Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | ![Live demo](https://frontendmentor-challenge-repos.github.io/social-media-dashboard-with-theme-switcher/)
+- FAQ accordion card | ![Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | ![Live demo](https://frontendmentor-challenge-repos.github.io/faq-accordion/)
 
-| Most Used Languages                                                                                                                                                                      | GitHub Stats                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=rr69sport&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
-
-## Trofeos de perfil de GitHub
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rr69sport&theme=darkhub&margin-w=45)
+**Projectos personales**
+- Heads or Tails | ![Repo](https://github.com/rr69sport/heads-or-tails) | ![Live demo](https://rr69sport.github.io/heads-or-tails/)
+- Link Saver | ![Repo](https://github.com/rr69sport/link-saver) | ![Live demo](https://rr69sport.github.io/link-saver/)
+- Movie Finder | ![Repo](https://github.com/rr69sport/movie-finder) | ![Live demo](https://rr69sport.github.io/movie-finder/)
