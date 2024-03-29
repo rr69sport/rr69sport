@@ -4,7 +4,7 @@ Desarrollador web frontend, experiencia en HTML, CSS, JavaScript, React y Git. A
 
 **Puedes contactarme por medio de:** [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
 
-**Mi sitio web:** [https://rrdev.me](https://www.rrdev.me)
+**Mi sitio web:** [https://rrdev-me.vercel.app/](https://rrdev-me.vercel.app/)
 
 
 ## Algunos de mis proyectos prácticos
