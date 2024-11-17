@@ -1,6 +1,6 @@
 # Soy Richard Ramírez 
 
-Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript, Astro, Svelte, React, Git y lo básico en Node.js. Con capacidad para trabajar solo o en equipo. Siempre dispuesto a aprender nuevas tecnologías.
+Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript, Astro, Svelte, React, Git y lo básico en Node.js. Con capacidad para trabajar solo o en equipo. Siempre dispuesto a aprender nuevas tecnologías y lo que sea necesario por el bien del proyecto.
 
 **Puedes contactarme por medio de:** [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
 
