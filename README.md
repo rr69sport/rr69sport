@@ -18,6 +18,12 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
 
 ### Projectos personales
 
+- **String Modifier**
+  - Módulo de Node.js para convertir cadenas de texto a notaciónes como: camelCase, PascalCase, kebab-case y snake_case.
+  - Escrita en JavaScript Vanilla
+  - [Repo](https://github.com/rr69sport/string-modifier/tree/main)
+  - [Paquete en NPM](https://www.npmjs.com/package/string-modifier) 
+
 - **Heads or Tails**
   - Aplicación para añadir dos opciones y elige una al azar.
   - Construida en: HTML, CSS, JavaScript
