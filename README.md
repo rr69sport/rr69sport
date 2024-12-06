@@ -4,7 +4,7 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
 
 **Puedes contactarme por medio de:** [![Linkedin:Richard Ramírez](https://img.shields.io/badge/-Richard%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rr-dev/)](https://www.linkedin.com/in/rr-dev/)
 
-**Mi sitio web:** [https://richard-ramirez.vercel.app/](https://richard-ramírez.vercel.app/)
+**Mi sitio web:** [https://richard-ramirez.vercel.app/](https://richard-ramirez.vercel.app/)
 
 
 ## Algunos de mis proyectos prácticos
