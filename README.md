@@ -32,9 +32,3 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
   - Aplicación para guardar links en localstorage.
   - Construida en: HTML, CSS, JavaScript y LocalStorage
   - [Repo](https://github.com/rr69sport/link-saver) | [Live demo](https://rr69sport.github.io/link-saver/)
-
-- **Movie Finder**
-  - Buscador de películas con un sencillo login y contraseña en localstorage para poder guardar las películas favoritas.
-  - Construida en: HTML, CSS, JavaScript y LocalStorage 
-  - API: [https://www.omdbapi.com/](https://www.omdbapi.com/)
-  - [Repo](https://github.com/rr69sport/movie-finder) | [Live demo](https://rr69sport.github.io/movie-finder/)
