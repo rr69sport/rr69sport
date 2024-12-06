@@ -13,8 +13,8 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
 
 [Mi perfil en Frontendmentor](https://www.frontendmentor.io/profile/rr69sport)
 
-- Social media dashboard with theme switcher | [Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | [Live demo](https://frontendmentor-challenge-repos.github.io/social-media-dashboard-with-theme-switcher/)
-- FAQ accordion card | [Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | [Live demo](https://frontendmentor-challenge-repos.github.io/faq-accordion/)
+- Social media dashboard with theme switcher | [Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | [Live demo](https://rr69sport.github.io/social-media-dashboard-with-theme-switcher/)
+- FAQ accordion card | [Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | [Live demo](https://rr69sport.github.io/faq-accordion/)
 
 ### Projectos personales
 
