@@ -8,12 +8,17 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
 
 ### Projectos personales
 
+- **Ingredients Skyrim**
+  - Aplicación para filtrar ingredientes según el efecto alquímico que indique
+  - Desarrollada con React
+  - [Repo](https://github.com/rr69sport/ingredients-skyrim) | [Live demo](https://ingredients-skyrim.vercel.app/)
+
 - **Heads or Tails**
   - Aplicación para añadir dos opciones y elige una al azar.
-  - Construida en: HTML, CSS, JavaScript
+  - Desarrollada en: HTML, CSS, JavaScript
   - [Repo](https://github.com/rr69sport/heads-or-tails) | [Live demo](https://rr69sport.github.io/heads-or-tails/)
 
 - **Link Saver** 
   - Aplicación para guardar links en localstorage.
-  - Construida en: HTML, CSS, JavaScript y LocalStorage
+  - Desarrollada en: HTML, CSS, JavaScript y LocalStorage
   - [Repo](https://github.com/rr69sport/link-saver) | [Live demo](https://rr69sport.github.io/link-saver/)
