@@ -6,22 +6,7 @@ Desarrollador web frontend, con experiencia en HTML, CSS, JavaScript, TypeScript
 
 **Mi sitio web:** [https://richard-ramirez.vercel.app/](https://richard-ramirez.vercel.app/)
 
-
-## Algunos de mis proyectos prácticos
-
-### Frontendmentor
-
-[Mi perfil en Frontendmentor](https://www.frontendmentor.io/profile/rr69sport)
-
-- Social media dashboard with theme switcher | [Repo](https://github.com/frontendmentor-challenge-repos/social-media-dashboard-with-theme-switcher) | [Live demo](https://rr69sport.github.io/social-media-dashboard-with-theme-switcher/)
-- FAQ accordion card | [Repo](https://github.com/frontendmentor-challenge-repos/faq-accordion) | [Live demo](https://rr69sport.github.io/faq-accordion/)
-
 ### Projectos personales
-
-- **String Modifier**
-  - Módulo de Node.js para convertir cadenas de texto a notaciónes como: camelCase, PascalCase, kebab-case y snake_case.
-  - Escrita en JavaScript Vanilla
-  - [Repo](https://github.com/rr69sport/string-modifier/tree/main) | [Paquete en NPM](https://www.npmjs.com/package/string-modifier) 
 
 - **Heads or Tails**
   - Aplicación para añadir dos opciones y elige una al azar.
